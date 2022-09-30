@@ -1,0 +1,24 @@
+.messagebox{
+	position: relative;
+	left: 30%;
+	width: 40%;
+	background-color: grey;
+	padding-left: 100px;
+	scroll-behavior: auto;
+}
+#auteur{
+	color: blue;font-size: large;font-weight: bold;
+}
+#date{font-size: small;font-weight: bold;color: white}
+#contenu{
+	font-size: medium;font-weight: bold;letter-spacing: 0.5px;word-spacing: 1px;
+}
+.date{
+	position: fixed;
+	left: 70%;
+}
+.userinput{
+	position: relative;
+	left: 30%;
+	width: 40%;
+}
